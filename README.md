@@ -1,4 +1,4 @@
-# OpenSource RAG Mixtral EU Finance
+# Open-source RAG Mixtral experimentation with financial reports from companies of the European Union
 ---
 1. Llama-Index as a data framework
 2. Embeddings from BGM-3 of BAA
